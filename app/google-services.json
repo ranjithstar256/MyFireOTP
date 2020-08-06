@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "583102229474",
+    "firebase_url": "https://my-whatsapp-link-c6969.firebaseio.com",
+    "project_id": "my-whatsapp-link-c6969",
+    "storage_bucket": "my-whatsapp-link-c6969.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583102229474:android:06ad80eabd2a223577a7bb",
+        "android_client_info": {
+          "package_name": "com.am.mfc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583102229474-iu51m1ed9dkahs964f9gtm3l4jqrisqm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU1gI7I4ECqgdp7DQa9ut2bwu_HQbf7D4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583102229474-iu51m1ed9dkahs964f9gtm3l4jqrisqm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583102229474:android:8f9516c94372254e77a7bb",
+        "android_client_info": {
+          "package_name": "com.am.myfireotp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583102229474-iu51m1ed9dkahs964f9gtm3l4jqrisqm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU1gI7I4ECqgdp7DQa9ut2bwu_HQbf7D4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583102229474-iu51m1ed9dkahs964f9gtm3l4jqrisqm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583102229474:android:c3330d21220c34f877a7bb",
+        "android_client_info": {
+          "package_name": "com.andrman.contactgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583102229474-iu51m1ed9dkahs964f9gtm3l4jqrisqm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU1gI7I4ECqgdp7DQa9ut2bwu_HQbf7D4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583102229474-iu51m1ed9dkahs964f9gtm3l4jqrisqm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583102229474:android:1df8d13a17035ea077a7bb",
+        "android_client_info": {
+          "package_name": "ran.am.mywhatsapplink"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583102229474-iu51m1ed9dkahs964f9gtm3l4jqrisqm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU1gI7I4ECqgdp7DQa9ut2bwu_HQbf7D4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583102229474-iu51m1ed9dkahs964f9gtm3l4jqrisqm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
